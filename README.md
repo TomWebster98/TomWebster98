@@ -1,5 +1,5 @@
 # Hey 👋, I'm [Tom!](https://github.com/TomWebster98)
-**` Control Software & Systems Engineer - Aspiring Motorsport Engineer & Strategist `**
+**`Control Software & Systems Engineer - Aspiring Motorsport Engineer & Strategist`**
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tom-webster98/)](https://www.linkedin.com/in/tom-webster98/)
 
