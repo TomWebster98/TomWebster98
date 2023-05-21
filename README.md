@@ -30,13 +30,13 @@ Passionate about Motorsport engineering and strategy, particularly Formula 1 and
 - Jupyter Notebook
 
 ## 🏎️ Current Projects 🏎️:
-- *What Made the Difference?* - Race Strategy Visualisation, Analysis and Reports. Available [here.](https://github.com/TomWebster98/Race-Strategy-Analysis)
+- *What Made the Difference?* - Race strategy visualisation, analysis and reports. Available [here.](https://github.com/TomWebster98/Race-Strategy-Analysis)
 - Formula 1 Hybrid Power Unit Control Modelling with Python and Capella. Available [here.](https://github.com/TomWebster98/Control-System-Modelling)
 - MATLAB & Simulink Practice Projects. Available [here.](https://github.com/TomWebster98/MATLAB-Simulink-Practice)
 
 ## 🏎️ Current Motorsport Courses & Study 🏎️:
-- Motorsport Engineer Network Courses: Vehicle Dynamics, Race Strategy.
-- Self Study: Powertrain Engineering, Chassis & Vehicle Setup, Race Strategy Simulations.
+- Motorsport Engineer Network Courses: Vehicle dynamics, race strategy.
+- Self Study: Powertrain engineering, chassis & vehicle setup, race strategy simulations.
 
 ## 🏎️ Motorsport Volunteering 🏎️:
 - Mission Motorsport: Track day marshalling and set up as required.
