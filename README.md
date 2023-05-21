@@ -1,5 +1,5 @@
 # Hey 👋, I'm [Tom!](https://github.com/TomWebster98)
-**` Control Software & Systems Engineer - Aspiring Motorsport Engineer & Strategist`**
+**` Control Software & Systems Engineer - Aspiring Motorsport Engineer & Strategist `**
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tom-webster98/)](https://www.linkedin.com/in/tom-webster98/)
 
@@ -13,8 +13,8 @@ Passionate about Motorsport engineering and strategy, particularly Formula 1 and
 
 - 🛠 &nbsp; I mainly work with Python, utilising modules like pandas, numpy, matplotlib, dash and plotly for data processing and visualisation.
 - 🌱 &nbsp; I’m currently learning MATLAB/Simulink as well as broader Motorsport engineering topics such as vehicle dynamics, aerodynamics and race strategy.
-- 👨🏻‍💻 &nbsp; My personal projects are available here: [Github](https://github.com/TomWebster98?tab=repositories).
-- 📫 &nbsp; Reach out on LinkedIn: [LinkedIn](https://www.linkedin.com/in/tom-webster98/)
+- 👨🏻‍💻 &nbsp; My personal projects are available on [Github.](https://github.com/TomWebster98?tab=repositories).
+- 📫 &nbsp; Reach out on [LinkedIn.](https://www.linkedin.com/in/tom-webster98/)
 
 ## 💡 Languages 💡:
 - Python
@@ -37,3 +37,6 @@ Passionate about Motorsport engineering and strategy, particularly Formula 1 and
 ## 🏎️ Current Motorsport Courses & Study 🏎️:
 - Motorsport Engineer Network Courses: Vehicle Dyanmics, Race Strategy.
 - Self Study: Powertrain Engineering, Chassis & Vehicle Setup, Race Strategy Simulations.
+
+## 🏎️ Motorsport Volunteering 🏎️:
+- Mission Motorsport: Track day marshalling and set up as required.
