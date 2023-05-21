@@ -35,8 +35,9 @@ Passionate about Motorsport engineering and strategy, particularly Formula 1 and
 - MATLAB & Simulink Practice Projects. Available [here.](https://github.com/TomWebster98/MATLAB-Simulink-Practice)
 
 ## 🏎️ Current Motorsport Courses & Study 🏎️:
-- Motorsport Engineer Network Courses: Vehicle Dyanmics, Race Strategy.
+- Motorsport Engineer Network Courses: Vehicle Dynamics, Race Strategy.
 - Self Study: Powertrain Engineering, Chassis & Vehicle Setup, Race Strategy Simulations.
 
 ## 🏎️ Motorsport Volunteering 🏎️:
 - Mission Motorsport: Track day marshalling and set up as required.
+- Motorsport UK: Trainee Scrutineer.
