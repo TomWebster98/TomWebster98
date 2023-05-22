@@ -25,6 +25,7 @@ Passionate about Motorsport engineering and strategy, particularly Formula 1 and
 ## 🔨 Tools 🔨:
 - Capella (Model-Based Systems Engineering Tool)
 - Git / GitHub / GitLab
+- Docker
 - Linux
 - VSCode
 - Jupyter Notebook
