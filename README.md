@@ -12,32 +12,40 @@ Passionate about Motorsport engineering and strategy, particularly Formula 1 and
 ### What I'm Doing:
 
 - 🛠 &nbsp; I mainly work with Python, utilising modules like pandas, numpy, matplotlib, dash and plotly for data processing and visualisation.
-- 🌱 &nbsp; I’m currently learning MATLAB/Simulink as well as broader Motorsport engineering topics such as vehicle dynamics, aerodynamics and race strategy.
-- 👨🏻‍💻 &nbsp; My personal projects are available on [Github.](https://github.com/TomWebster98?tab=repositories).
-- 📫 &nbsp; Reach out on [LinkedIn.](https://www.linkedin.com/in/tom-webster98/)
+- 🌱 &nbsp; I’m currently learning MATLAB/Simulink and Motorsport engineering topics such as vehicle dynamics, aerodynamics and race strategy.
+- 👨🏻‍💻 &nbsp; My personal projects are available on [GitHub.](https://github.com/TomWebster98?tab=repositories)
+- 📫 &nbsp; Reach out on [LinkedIn!](https://www.linkedin.com/in/tom-webster98/)
 
 ## 💡 Languages 💡:
 - Python
 - C++
-- XML
 - MATLAB/Simulink
+- XML
 
 ## 🔨 Tools 🔨:
 - Capella (Model-Based Systems Engineering Tool)
+- Python4Capella
 - Git / GitHub / GitLab
 - Docker
 - Linux
 - VSCode
 - Jupyter Notebook
 
+## 📈 Methodologies 📈:
+- Model-Based Systems Engineering
+- Lean Systems Engineering
+- Object-Oriented Programming
+- Test-Driven Development
+
 ## 🏎️ Current Projects 🏎️:
 - *What Made the Difference?* - Race strategy visualisation, analysis and reports. Available [here.](https://github.com/TomWebster98/Race-Strategy-Analysis)
-- Formula 1 Hybrid Power Unit Control Modelling with Python and Capella. Available [here.](https://github.com/TomWebster98/Control-System-Modelling)
-- MATLAB & Simulink Practice Projects. Available [here.](https://github.com/TomWebster98/MATLAB-Simulink-Practice)
+- Formula 1 hybrid power unit control modelling with Python, Capella, MATLAB & Simulink. Available [here.](https://github.com/TomWebster98/Control-System-Modelling)
+- MATLAB & Simulink practice projects. Available [here.](https://github.com/TomWebster98/MATLAB-Simulink-Practice)
 
-## 🏎️ Current Motorsport Courses & Study 🏎️:
+## 🏎️ Current Motorsport (and related) Courses & Study 🏎️:
 - Motorsport Engineer Network Courses: Vehicle dynamics, race strategy.
 - Self Study: Powertrain engineering, chassis & vehicle setup, race strategy simulations.
+- MathWorks: MATLAB & Simulink training courses.
 
 ## 🏎️ Motorsport Volunteering 🏎️:
 - Mission Motorsport: Track day marshalling and set up as required.
