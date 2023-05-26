@@ -7,7 +7,7 @@
 
 MPhys Physics with Astrophysics graduate with a high first-class degree from the University of Sussex. Experienced in control software engineering, systems engineering, material mechanics testing and experimental design; in addition to STEM outreach and communications. Currently working towards a chartership in engineering (CEng) with the IET.
 
-Passionate about Motorsport engineering and strategy, particularly Formula 1 and BTCC. Current projects focus on **race strategy data analysis, control system modelling, and MATLAB/Simulink.**
+Passionate about Motorsport engineering and strategy, particularly Formula 1 and BTCC. Current projects focus on **race strategy data analysis, high-performance powertrain control system modelling, and MATLAB/Simulink.**
 
 ### What I'm Doing:
 
@@ -42,11 +42,19 @@ Passionate about Motorsport engineering and strategy, particularly Formula 1 and
 - Formula 1 hybrid power unit control modelling with Python, Capella, MATLAB & Simulink. Available [here.](https://github.com/TomWebster98/Control-System-Modelling)
 - MATLAB & Simulink practice projects. Available [here.](https://github.com/TomWebster98/MATLAB-Simulink-Practice)
 
-## 🏎️ Current Motorsport (and related) Courses & Study 🏎️:
-- Motorsport Engineer Network Courses: Vehicle dynamics, race strategy.
-- Self Study: Powertrain engineering, chassis & vehicle setup, race strategy simulations.
-- MathWorks: MATLAB & Simulink training courses.
+## 🏎️ Current Motorsport (and related skills) Courses & Study 🏎️:
+- Self Study: Powertrain engineering, chassis & vehicle setup, race strategy simulation and execution.
+- Motorsport Engineer Network Courses: 
+    - Vehicle dynamics modelling and simulation (Completed: TBD)
+    - Lap-time simulation with ChassisSim (Completed: TBD)
+    - Performance Engineering in F1 (Completed: TBD)
+- MathWorks MATLAB & Simulink Courses:
+    - MATLAB Onramp (Completed: 05/23)
+    - Simulink Onramp (Completed: 05/23)
+    - Control Design with Simulink Onramp (Completed: 05/23)
+    - Stateflow Onramp (Completed: 05/23)
+    - Optimisation Onramp (Completed: 05/23)
 
 ## 🏎️ Motorsport Volunteering 🏎️:
 - Mission Motorsport: Track day marshalling and set up as required.
-- Motorsport UK: Trainee Scrutineer.
+- Motorsport UK: Trainee Scrutineer. (05/23 - Present)
