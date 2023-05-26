@@ -23,6 +23,7 @@ Passionate about Motorsport engineering and strategy, particularly Formula 1 and
 - XML
 
 ## 🔨 Tools 🔨:
+- Simulink / Simscape / Stateflow
 - Capella (Model-Based Systems Engineering Tool)
 - Python4Capella
 - Git / GitHub / GitLab
