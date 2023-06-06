@@ -47,7 +47,7 @@ Passionate about Motorsport engineering and strategy, particularly Formula 1 and
 ## 🏎️ Current Motorsport (and related skills) Courses & Study 🏎️:
 - Self Study: Powertrain engineering, chassis & vehicle setup, race strategy simulation and execution.
 - Motorsport Engineer Network Courses: 
-    - Vehicle dynamics modelling and simulation (Completed: 06/23) Notes and assignments available [here.](https://github.com/TomWebster98/Motorsport-Engineering-Notes/Vehicle_Dynamics_Modelling_Simulation)
+    - Vehicle dynamics modelling and simulation (Completed: 06/23) Notes and assignments available [here.](https://github.com/TomWebster98/Motorsport-Engineering-Notes/Vehicle_Dynamics_Modelling_and_Simulation)
     - Lap-time simulation with ChassisSim (Completed: TBD)
     - Performance Engineering in F1 (Completed: TBD)
 - MathWorks MATLAB & Simulink Courses:
