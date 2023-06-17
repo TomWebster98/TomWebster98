@@ -11,7 +11,7 @@ Passionate about Motorsport engineering and strategy, particularly Formula 1 and
 
 ### What I'm Doing:
 
-- 🛠 &nbsp; I mainly work with Python, utilising modules like pandas, numpy, matplotlib, dash and plotly for data processing and visualisation.
+- 🛠 &nbsp; I mainly work with Model-Based Engineering tools, such as Capella and Simulink, in addition to high-level programming languages such as MATLAB and Python, specifically utilising Python modules like pandas, numpy, matplotlib, dash and plotly for data processing and visualisation.
 - 🌱 &nbsp; I’m currently learning MATLAB/Simulink and Motorsport engineering topics such as vehicle dynamics, aerodynamics and race strategy.
 - 👨🏻‍💻 &nbsp; My personal projects are available on [GitHub.](https://github.com/TomWebster98?tab=repositories)
 - 📫 &nbsp; Reach out on [LinkedIn!](https://www.linkedin.com/in/tom-webster98/)
@@ -40,14 +40,14 @@ Passionate about Motorsport engineering and strategy, particularly Formula 1 and
 
 ## 🏎️ Current Projects 🏎️:
 - *What Made the Difference?* - Race strategy visualisation, analysis and reports. Available [here.](https://github.com/TomWebster98/Race-Strategy-Analysis)
-- Formula 1 hybrid power unit control modelling with Python, Capella, MATLAB & Simulink. Available [here.](https://github.com/TomWebster98/Control-System-Modelling)
+- Formula 1 hybrid power unit control modelling with Python, MATLAB & Simulink. Available [here.](https://github.com/TomWebster98/Control-System-Modelling)
 - MATLAB & Simulink practice projects. Available [here.](https://github.com/TomWebster98/MATLAB-Simulink-Practice)
 - Motorsport Engineering study notes (with practice models). Available [here.](https://github.com/TomWebster98/Motorsport-Engineering-Notes)
 
 ## 🏎️ Current Motorsport (and related skills) Courses & Study 🏎️:
 - Self Study: Powertrain engineering, chassis & vehicle setup, race strategy simulation and execution.
 - Motorsport Engineer Network Courses: 
-    - Vehicle dynamics modelling and simulation (Completed: 06/23) - Notes and assignments available [here.](https://github.com/TomWebster98/Motorsport-Engineering-Notes/tree/main/Vehicle_Dynamics_Modelling_and_Simulation)
+    - Vehicle dynamics modelling and simulation (Completed: TBD) - Notes and assignments available [here.](https://github.com/TomWebster98/Motorsport-Engineering-Notes/tree/main/Vehicle_Dynamics_Modelling_and_Simulation)
     - Lap-time simulation with ChassisSim (Completed: TBD)
     - Performance Engineering in F1 (Completed: TBD)
 - MathWorks MATLAB & Simulink Courses:
