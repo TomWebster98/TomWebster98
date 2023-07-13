@@ -41,7 +41,7 @@ Passionate about Motorsport engineering and strategy, particularly Formula 1 and
 ## 🏎️ Current Projects 🏎️:
 - *What Made the Difference?* - Race strategy visualisation, analysis and reports. Available [here.](https://github.com/TomWebster98/Race-Strategy-Analysis)
 - Formula 1 hybrid power unit control modelling with Python, MATLAB & Simulink. Available [here.](https://github.com/TomWebster98/Control-System-Modelling)
-- MATLAB & Simulink practice projects. Available [here.](https://github.com/TomWebster98/MATLAB-Simulink-Practice)
+- MATLAB & Simulink practice projects (including race strategy optimisation). Available [here.](https://github.com/TomWebster98/MATLAB-Simulink-Practice)
 - Motorsport Engineering study notes (with practice models). Available [here.](https://github.com/TomWebster98/Motorsport-Engineering-Notes)
 
 ## 🏎️ Current Motorsport (and related skills) Courses & Study 🏎️:
