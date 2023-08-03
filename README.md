@@ -59,9 +59,9 @@ Passionate about Motorsport engineering and strategy, particularly Formula 1 and
     - Simscape Onramp (Completed: 06/23) - [View Certification](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=5a074a7a-341f-4623-a15e-7b4e34a2e1e9&)
     - MATLAB Fundamentals (Completed: 07/23) - [View Certification](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=2596125c-0782-4b1d-95d7-2a801e818fc3&)
     - Introduction to Symbolic Math with MATLAB (Completed: 07/23) - [View Certification](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=9df43384-2085-43a9-a2c9-6b4e58163f3a&)
+    - Simulink Fundamentals (Completed: 08/23) - [View Certification](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=75b920cc-a817-497b-934f-d5fb4f893674&)
     - Solving Nonlinear Equations with MATLAB
     - MATLAB for Data Processing and Visualisations
-    - Simulink Fundamentals
 
 ## 🏎️ Motorsport Volunteering 🏎️:
 - Mission Motorsport: Track day marshalling and set up as required.
