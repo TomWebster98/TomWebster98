@@ -5,12 +5,13 @@
 
 -----------------------------------
 
-MPhys Physics with Astrophysics graduate with a high first-class degree from the University of Sussex. Experienced in control software engineering, systems engineering, material mechanics testing and experimental design; in addition to STEM outreach and communications. Currently working towards a chartership in engineering (CEng) with the IET.
+MSc Advanced Motorsport Mechatronics student at Cranfield University and first-class MPhys Physics with Astrophysics graduate from the University of Sussex. Experienced in control software engineering, systems engineering, material mechanics testing and experimental design; in addition to STEM outreach and communications. Currently working towards a chartership in engineering (CEng) with the IET.
 
 Passionate about Motorsport engineering and strategy, particularly Formula 1 and BTCC. Current projects focus on **race strategy data analysis, high-performance powertrain control system modelling, and MATLAB/Simulink.**
 
 ### What I'm Doing:
 
+- 📚 &nbsp; Completing an MSc in Advanced Motorsport Mechatronics at Cranfield University (09/2023 - 09/2024).
 - 🛠 &nbsp; I mainly work with Model-Based Engineering tools, such as Capella and Simulink, in addition to high-level programming languages such as MATLAB and Python, specifically utilising Python modules like pandas, numpy, matplotlib, dash and plotly for data processing and visualisation.
 - 🌱 &nbsp; I’m currently learning MATLAB/Simulink and Motorsport engineering topics such as vehicle dynamics, aerodynamics and race strategy.
 - 👨🏻‍💻 &nbsp; My personal projects are available on [GitHub.](https://github.com/TomWebster98?tab=repositories)
