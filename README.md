@@ -48,8 +48,8 @@ Passionate about Motorsport engineering and strategy, particularly Formula 1 and
 ## 🏎️ Current Motorsport (and related skills) Courses & Study 🏎️:
 - Self Study: Powertrain engineering, chassis & vehicle setup, race strategy simulation and execution.
 - Motorsport Engineer Network Courses: 
-    - Vehicle dynamics modelling and simulation (Completed: TBD) - Notes and assignments available [here.](https://github.com/TomWebster98/Motorsport-Engineering-Notes/tree/main/Vehicle_Dynamics_Modelling_and_Simulation)
-    - Lap-time simulation with ChassisSim (Completed: TBD)
+    - Vehicle dynamics modelling and simulation (Completed: 09/23) - Notes and assignments available [here.](https://github.com/TomWebster98/Motorsport-Engineering-Notes/tree/main/Vehicle_Dynamics_Modelling_and_Simulation)
+    - Lap-time simulation with ChassisSim (Completed: TBD) - Notes and assignments avaialable [here.](https://github.com/TomWebster98/Motorsport-Engineering-Notes/tree/main/Laptime_Simulation_with_ChassisSim)
     - Performance Engineering in F1 (Completed: TBD)
 - MathWorks MATLAB & Simulink Courses:
     - MATLAB Onramp (Completed: 05/23) - [View Certification](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=e83c5be5-2541-4b88-b2da-482e3b69c29b&)
@@ -61,6 +61,7 @@ Passionate about Motorsport engineering and strategy, particularly Formula 1 and
     - MATLAB Fundamentals (Completed: 07/23) - [View Certification](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=2596125c-0782-4b1d-95d7-2a801e818fc3&)
     - Introduction to Symbolic Math with MATLAB (Completed: 07/23) - [View Certification](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=9df43384-2085-43a9-a2c9-6b4e58163f3a&)
     - Simulink Fundamentals (Completed: 08/23) - [View Certification](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=75b920cc-a817-497b-934f-d5fb4f893674&)
+    - Signal Processing Onramp (Completed: 09/23) - [View Certification](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=1e9d15ec-a95d-4783-95d5-e36de3868705&)
     - Solving Nonlinear Equations with MATLAB
     - MATLAB for Data Processing and Visualisations
 
