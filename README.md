@@ -25,6 +25,9 @@ Passionate about Motorsport engineering and strategy, particularly Formula 1 and
 
 ## 🔨 Tools 🔨:
 - Simulink / Simscape / Stateflow
+- ChassisSim
+- MoTeC
+- AVL Boost
 - Capella (Model-Based Systems Engineering Tool)
 - Python4Capella
 - Git / GitHub / GitLab
