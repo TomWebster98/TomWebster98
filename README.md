@@ -61,7 +61,7 @@ Passionate about Motorsport engineering and strategy, particularly Formula 1 and
     - Group Design Project
     - Individual Research Thesis/Project
 - Motorsport Engineer Network Courses: 
-    - Vehicle dynamics modelling and simulation (Completed: 09/23) - Notes and assignments available [here.](https://github.com/TomWebster98/Motorsport-Engineering-Notes/tree/main/Vehicle_Dynamics_Modelling_and_Simulation)
+    - Vehicle dynamics modelling and simulation (Completed: 09/23) - Notes and assignments available [here](https://github.com/TomWebster98/Motorsport-Engineering-Notes/tree/main/Vehicle_Dynamics_Modelling_and_Simulation) and certification [here.](https://academy.motorsportengineer.net/certificates/t34vqgrezj)
     - Lap-time simulation with ChassisSim (Completed: TBD) - Notes and assignments avaialable [here.](https://github.com/TomWebster98/Motorsport-Engineering-Notes/tree/main/Laptime_Simulation_with_ChassisSim)
     - Performance Engineering in F1 (Completed: TBD)
 - MathWorks MATLAB & Simulink Courses:
