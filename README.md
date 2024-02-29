@@ -5,7 +5,7 @@
 
 -----------------------------------
 
-MSc Advanced Motorsport Mechatronics student at Cranfield University and first-class MPhys Physics with Astrophysics graduate from the University of Sussex. Experienced in control software engineering, systems engineering, material mechanics testing and experimental design; in addition to STEM outreach and communications. Currently working towards a chartership in engineering (CEng) with the IET.
+MSc Advanced Motorsport Mechatronics student at Cranfield University and first-class MPhys Physics with Astrophysics graduate from the University of Sussex. Experienced in control systems and software engineering, model-based system architecture, material mechanics testing and experimental design; in addition to STEM outreach and communications. Currently working towards a chartership in engineering (CEng) with the IET.
 
 Passionate about Motorsport engineering and strategy, particularly Formula 1 and BTCC. Current projects focus on **race strategy data analysis, high-performance powertrain control system modelling, and MATLAB/Simulink.**
 
@@ -13,7 +13,7 @@ Passionate about Motorsport engineering and strategy, particularly Formula 1 and
 
 - 📚 &nbsp; Completing an MSc in Advanced Motorsport Mechatronics at Cranfield University (09/2023 - 09/2024).
 - 🛠 &nbsp; I mainly work with Model-Based Engineering tools, such as Capella and Simulink, in addition to high-level programming languages such as MATLAB and Python, specifically utilising Python modules like pandas, numpy, matplotlib, dash and plotly for data processing and visualisation.
-- 🌱 &nbsp; I’m currently learning MATLAB/Simulink and Motorsport engineering topics such as vehicle dynamics, aerodynamics and race strategy.
+- 🌱 &nbsp; I’m continually learning new skills with MATLAB and Simulink in addition to Motorsport engineering topics such as vehicle dynamics, aerodynamics and race strategy.
 - 👨🏻‍💻 &nbsp; My personal projects are available on [GitHub.](https://github.com/TomWebster98?tab=repositories)
 - 📫 &nbsp; Reach out on [LinkedIn!](https://www.linkedin.com/in/tom-webster98/)
 
@@ -50,20 +50,19 @@ Passionate about Motorsport engineering and strategy, particularly Formula 1 and
 
 ## 🏎️ Current Motorsport (and related skills) Courses & Study 🏎️:
 - MSc Advanced Motorsport Mechatronics Modules:
-    - Motorsport Powertrains
-    - Motorsport Electronics and Data Acquisition
-    - The Business of Motorsport
+    - Motorsport Powertrains (73%)
+    - Motorsport Electronics and Data Acquisition (83%)
+    - The Business of Motorsport (66%)
     - Motorsport Vehicle Dynamics
-    - Mechatronics Modelling for Vehicle Systems
-    - Advanced Control and Optimisation
-    - Embedded Vehicle Control Systems
+    - Mechatronics Modelling for Vehicle Systems (83%)
+    - Advanced Control and Optimisation (88%)
+    - Embedded Vehicle Control Systems (91%)
     - Vehicle Control Applications
     - Group Design Project
     - Individual Research Thesis/Project
 - Motorsport Engineer Network Courses: 
     - Vehicle dynamics modelling and simulation (Completed: 09/23) - Notes and assignments available [here](https://github.com/TomWebster98/Motorsport-Engineering-Notes/tree/main/Vehicle_Dynamics_Modelling_and_Simulation) and certification [here.](https://academy.motorsportengineer.net/certificates/t34vqgrezj)
     - Lap-time simulation with ChassisSim (Completed: TBD) - Notes and assignments avaialable [here.](https://github.com/TomWebster98/Motorsport-Engineering-Notes/tree/main/Laptime_Simulation_with_ChassisSim)
-    - Performance Engineering in F1 (Completed: TBD)
 - MathWorks MATLAB & Simulink Courses:
     - MATLAB Onramp (Completed: 05/23) - [View Certification](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=e83c5be5-2541-4b88-b2da-482e3b69c29b&)
     - Simulink Onramp (Completed: 05/23) - [View Certification](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=5c63cf78-b374-468f-b0b2-7b715185d5af&)
@@ -75,9 +74,10 @@ Passionate about Motorsport engineering and strategy, particularly Formula 1 and
     - Introduction to Symbolic Math with MATLAB (Completed: 07/23) - [View Certification](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=9df43384-2085-43a9-a2c9-6b4e58163f3a&)
     - Simulink Fundamentals (Completed: 08/23) - [View Certification](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=75b920cc-a817-497b-934f-d5fb4f893674&)
     - Signal Processing Onramp (Completed: 09/23) - [View Certification](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=1e9d15ec-a95d-4783-95d5-e36de3868705&)
+    - Image Processing Onramp (Completed: 02/24) = [View Certification](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=475e2ddd-5bcc-4498-b337-a912d76af578&)
+    - Computer Vision Onramp (Completed: 03/24)
     - Solving Nonlinear Equations with MATLAB
     - MATLAB for Data Processing and Visualisations
 
 ## 🏎️ Motorsport Volunteering 🏎️:
 - Mission Motorsport: Track day marshalling and set up as required.
-- Motorsport UK: Trainee Scrutineer. (05/23 - Present)
