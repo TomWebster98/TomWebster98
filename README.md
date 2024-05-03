@@ -1,5 +1,5 @@
 # Hey 👋, I'm [Tom!](https://github.com/TomWebster98)
-**`Control Software & Systems Engineer - Aspiring Motorsport Engineer & Strategist`**
+**`Energy Management Controls & Strategy Engineer`**
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tom-webster98/)](https://www.linkedin.com/in/tom-webster98/)
 
@@ -7,13 +7,13 @@
 
 MSc Advanced Motorsport Mechatronics student at Cranfield University and first-class MPhys Physics with Astrophysics graduate from the University of Sussex. Experienced in control systems and software engineering, model-based system architecture, material mechanics testing and experimental design; in addition to STEM outreach and communications. Currently working towards a chartership in engineering (CEng) with the IET.
 
-Passionate about Motorsport engineering and strategy, particularly Formula 1 and BTCC. Current projects focus on **race strategy data analysis, high-performance powertrain control system modelling, and MATLAB/Simulink.**
+Passionate about Motorsport race strategy, vehicle dynamics and controls. Current projects focus on **F1 race strategy data analysis, race strategy optimisation, and vehicle dynamics modelling with MATLAB/Simulink.**
 
 ### What I'm Doing:
 
 - 📚 &nbsp; Completing an MSc in Advanced Motorsport Mechatronics at Cranfield University (09/2023 - 09/2024).
 - 🛠 &nbsp; I mainly work with Model-Based Engineering tools, such as Capella and Simulink, in addition to high-level programming languages such as MATLAB and Python, specifically utilising Python modules like pandas, numpy, matplotlib, dash and plotly for data processing and visualisation.
-- 🌱 &nbsp; I’m continually learning new skills with MATLAB and Simulink in addition to Motorsport engineering topics such as vehicle dynamics, aerodynamics and race strategy.
+- 🌱 &nbsp; I’m learning new techniques in race strategy analysis and optimisation, completing my MSc thesis with a focus on the application Monte-Carlo techniques to this area
 - 👨🏻‍💻 &nbsp; My personal projects are available on [GitHub.](https://github.com/TomWebster98?tab=repositories)
 - 📫 &nbsp; Reach out on [LinkedIn!](https://www.linkedin.com/in/tom-webster98/)
 
@@ -24,8 +24,7 @@ Passionate about Motorsport engineering and strategy, particularly Formula 1 and
 - XML
 
 ## 🔨 Tools 🔨:
-- Simulink / Simscape / Stateflow
-- ChassisSim
+- Simulink
 - MoTeC
 - AVL Boost
 - Capella (Model-Based Systems Engineering Tool)
@@ -43,21 +42,20 @@ Passionate about Motorsport engineering and strategy, particularly Formula 1 and
 - Test-Driven Development
 
 ## 🏎️ Current Projects 🏎️:
-- *What Made the Difference?* - Race strategy visualisation, analysis and reports. Available [here.](https://github.com/TomWebster98/Race-Strategy-Analysis)
-- Formula 1 hybrid power unit control modelling with Python, MATLAB & Simulink. Available [here.](https://github.com/TomWebster98/Control-System-Modelling)
-- MATLAB & Simulink practice projects (including race strategy optimisation). Available [here.](https://github.com/TomWebster98/MATLAB-Simulink-Practice)
-- Motorsport Engineering study notes (with practice models). Available [here.](https://github.com/TomWebster98/Motorsport-Engineering-Notes)
+- F1 Strategy Analysis - Available [here.](https://github.com/TomWebster98/Race-Strategy-Analysis)
+- F1 Strategy Optimisation - Available [here.](https://github.com/TomWebster98/Race-Strategy-Modelling)
+- Motorsport Engineering Study Notes - Available [here.](https://github.com/TomWebster98/Motorsport-Engineering-Notes)
 
 ## 🏎️ Current Motorsport (and related skills) Courses & Study 🏎️:
 - MSc Advanced Motorsport Mechatronics Modules:
     - Motorsport Powertrains (73%)
     - Motorsport Electronics and Data Acquisition (83%)
     - The Business of Motorsport (66%)
-    - Motorsport Vehicle Dynamics
+    - Motorsport Vehicle Dynamics (70%)
     - Mechatronics Modelling for Vehicle Systems (83%)
     - Advanced Control and Optimisation (88%)
     - Embedded Vehicle Control Systems (91%)
-    - Vehicle Control Applications
+    - Vehicle Control Applications (86%)
     - Group Design Project
     - Individual Research Thesis/Project
 - Motorsport Engineer Network Courses: 
@@ -76,8 +74,6 @@ Passionate about Motorsport engineering and strategy, particularly Formula 1 and
     - Signal Processing Onramp (Completed: 09/23) - [View Certification](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=1e9d15ec-a95d-4783-95d5-e36de3868705&)
     - Image Processing Onramp (Completed: 02/24) = [View Certification](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=475e2ddd-5bcc-4498-b337-a912d76af578&)
     - Computer Vision Onramp (Completed: 03/24)
-    - Solving Nonlinear Equations with MATLAB
-    - MATLAB for Data Processing and Visualisations
 
 ## 🏎️ Motorsport Volunteering 🏎️:
 - Mission Motorsport: Track day marshalling and set up as required.
